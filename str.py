@@ -1,2 +1,2 @@
-name = "Zolin\t Володимир Юрійович, Ірина...."
-print(name.find("Володимир"))
+name = "Zolin\t Володимир Юрійович, {0}....".format("Ірина ;)")
+print(name)
